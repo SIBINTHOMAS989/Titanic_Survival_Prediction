@@ -1,0 +1,2 @@
+# Titanic_Survival_Prediction
+Objective of this project is to create a ML model to predict whether the given passenger will survive or not during the Titanic shipwreck. As a part of Machine Learning competition participants will be provided a training data set with features (Passenger details) &amp; binary labelled target (Survived or Not).  Create a model using the training data set to and predict target value of the test data (without the labels).
